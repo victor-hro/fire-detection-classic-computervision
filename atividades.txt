@@ -1,0 +1,8 @@
+0.Distância Mahalanobis cor de fogo
+1.Limiarização baseada em Mahalanobis
+2.(?) Correção com Morfologia
+3.HoG
+4.Criar dataset
+5.SVM binária
+https://thedatafrog.com/en/articles/human-detection-video/
+https://www.pyimagesearch.com/2015/11/09/pedestrian-detection-opencv/
