@@ -8,6 +8,7 @@
 
 - [x] Extração dos dados;
 - [x] Implementação da Visão Clássica;
+
       [x] Mahalanobis Distance;
       [x] Adaptative Threshold;
       [x] Morfologia Matemática;
