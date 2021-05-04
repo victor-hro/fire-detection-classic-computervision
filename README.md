@@ -13,8 +13,8 @@
       [x] Adaptative Threshold;
       [x] Morfologia Matemática;
       [ ] Criar Dataset;
-      [ ] SVM;
-- [ ] Deep Learning;
+      [x] SVM;
+- [x] Deep Learning;
 - [ ] ...
 
 ### 🛠 Tools
