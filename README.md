@@ -4,18 +4,6 @@
   <img alt="Grad CAM" title="#Grad CAM" src="src/assets/girl.jpg" />
 </h1>
 
-<h1 align="center">
-  <img alt="Grad CAM" title="#Grad CAM" src="src/assets/girl_mahalanobis.png" />
-</h1>
-
-<h1 align="center">
-  <img alt="Grad CAM" title="#Grad CAM" src="src/assets/girl_mahaxorig.png" />
-</h1>
-
-<h1 align="center">
-  <img alt="Grad CAM" title="#Grad CAM" src="src/assets/girl_close.png" />
-</h1>
-
 <h3 align="center"> 
 	🚧  🚀 Em construção...  🚧
 </h3>
@@ -37,3 +25,17 @@
 
 - [Python](https://www.python.org/)
 - [OpenCV](https://opencv.org/)
+
+## Classic Computer Vision
+
+<h1 align="center">
+  <img alt="Grad CAM" title="#Grad CAM" src="src/assets/girl_mahalanobis.png" />
+</h1>
+
+<h1 align="center">
+  <img alt="Grad CAM" title="#Grad CAM" src="src/assets/girl_mahaxorig.png" />
+</h1>
+
+<h1 align="center">
+  <img alt="Grad CAM" title="#Grad CAM" src="src/assets/girl_close.png" />
+</h1>
