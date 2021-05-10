@@ -1,6 +1,6 @@
 # Fire Detection - Computer Vision
 
-<h1 align="center">
+<h1>
   <img alt="Grad CAM" title="#Grad CAM" src="src/assets/girl.jpg" />
 </h1>
 
