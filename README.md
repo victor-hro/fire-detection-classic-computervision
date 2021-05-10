@@ -1,7 +1,7 @@
 # Fire Detection - Computer Vision
 
 <h1 align="center">
-  <img alt="Girl Fire Meme" title="#Grad CAM" src="src/assets/girl.jpg" />
+  <img alt="Girl Fire Meme" width=400 weigth=300 title="#Grad CAM" src="src/assets/girl.jpg" />
 </h1>
 
 <h3 align="center"> 
@@ -16,10 +16,8 @@
       [x] Mahalanobis Distance;
       [x] Adaptative Threshold;
       [x] Morfologia Matemática;
-      [ ] Criar Dataset;
       [x] SVM;
 - [x] Deep Learning;
-- [ ] ...
 
 ### 🛠 Tools
 
@@ -28,14 +26,19 @@
 
 ## Classic Computer Vision
 ### Mahalanobis Distance
-<h2 align="left">
-	<img alt="girl" width=100 weigth=100 title="#Grad CAM" src="src/assets/girl.jpg" />
-	<img alt="Blur" title="#Grad CAM" src="src/assets/girl_blur.png" />
-	<img alt="Mahalanobis" title="#Grad CAM" src="src/assets/girl_mahalanobis.png" />
-	<img alt="Maha X Img" title="#Grad CAM" src="src/assets/girl_mahaxorig.png" />
+<h2 align="center">
+	<img alt="girl" width=300 weigth=200 title="#girl" src="src/assets/girl.jpg" />
+	<img alt="Blur" width=300 weigth=200 title="#blur CAM" src="src/assets/girl_blur.png" />
 </h2>
 
-### Mathematical morphology
-<h2 align="left">
-	<img alt="Close title="#Grad CAM" src="src/assets/girl_close.png" />
+<h2 align="center">
+	<img alt="Mahalanobis" width=300 weigth=200 title="#Mahalanobis" src="src/assets/girl_mahalanobis.png" />
+	<img alt="Maha X Img" width=300 weigth=200 title="#Maha X Img" src="src/assets/girl_mahaxorig.png" />
+</h2>
+
+### Limiar Threshold, Mathematical Morphology and Final Boolean Mask
+<h2 align="center">
+	<img alt="Close" width=300 weigth=200 title="#th" src="src/assets/girl_th.png" />
+      	<img alt="Close" width=300 weigth=200 title="#opening" src="src/assets/girl_open.png" />
+	<img alt="Close" width=300 weigth=200 title="#closing" src="src/assets/girl_close.png" />
 </h2>
