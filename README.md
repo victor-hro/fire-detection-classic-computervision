@@ -28,18 +28,9 @@
 
 ## Classic Computer Vision
 
-<h1 align="left">
-  <img alt="Grad CAM" title="#Grad CAM" src="src/assets/girl_blur.png" />
-</h1>
-
-<h1 align="right">
-  <img alt="Grad CAM" title="#Grad CAM" src="src/assets/girl_mahalanobis.png" />
-</h1>
-
-<h1 align="center">
-  <img alt="Grad CAM" title="#Grad CAM" src="src/assets/girl_mahaxorig.png" />
-</h1>
-
-<h1 align="center">
-  <img alt="Grad CAM" title="#Grad CAM" src="src/assets/girl_close.png" />
-</h1>
+<h2 align="left">
+	<img alt="Grad CAM" title="#Grad CAM" src="src/assets/girl_blur.png" />
+	<img alt="Grad CAM" title="#Grad CAM" src="src/assets/girl_mahalanobis.png" />
+	<img alt="Grad CAM" title="#Grad CAM" src="src/assets/girl_mahaxorig.png" />
+	<img alt="Grad CAM" title="#Grad CAM" src="src/assets/girl_close.png" />
+</h2>
