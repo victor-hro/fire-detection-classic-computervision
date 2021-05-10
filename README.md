@@ -29,7 +29,7 @@
 ## Classic Computer Vision
 ### Mahalanobis Distance
 <h2 align="left">
-	<img alt="girl" title="#Grad CAM" src="src/assets/girl.jpg" />
+	<img alt="girl" width=100 weigth=100 title="#Grad CAM" src="src/assets/girl.jpg" />
 	<img alt="Blur" title="#Grad CAM" src="src/assets/girl_blur.png" />
 	<img alt="Mahalanobis" title="#Grad CAM" src="src/assets/girl_mahalanobis.png" />
 	<img alt="Maha X Img" title="#Grad CAM" src="src/assets/girl_mahaxorig.png" />
