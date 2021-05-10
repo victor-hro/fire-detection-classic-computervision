@@ -1,7 +1,7 @@
 # Fire Detection - Computer Vision
 
 <h1 align="center">
-  <img alt="Grad CAM" title="#Grad CAM" src="src/assets/girl.jpg" />
+  <img alt="Girl Fire Meme" title="#Grad CAM" src="src/assets/girl.jpg" />
 </h1>
 
 <h3 align="center"> 
@@ -27,10 +27,15 @@
 - [OpenCV](https://opencv.org/)
 
 ## Classic Computer Vision
-
+### Mahalanobis Distance
 <h2 align="left">
-	<img alt="Grad CAM" title="#Grad CAM" src="src/assets/girl_blur.png" />
-	<img alt="Grad CAM" title="#Grad CAM" src="src/assets/girl_mahalanobis.png" />
-	<img alt="Grad CAM" title="#Grad CAM" src="src/assets/girl_mahaxorig.png" />
-	<img alt="Grad CAM" title="#Grad CAM" src="src/assets/girl_close.png" />
+	<img alt="girl" width=100 weigth=100 title="#Grad CAM" src="src/assets/girl.jpg" />
+	<img alt="Blur" title="#Grad CAM" src="src/assets/girl_blur.png" />
+	<img alt="Mahalanobis" title="#Grad CAM" src="src/assets/girl_mahalanobis.png" />
+	<img alt="Maha X Img" title="#Grad CAM" src="src/assets/girl_mahaxorig.png" />
+</h2>
+
+### Mathematical morphology
+<h2 align="left">
+	<img alt="Close title="#Grad CAM" src="src/assets/girl_close.png" />
 </h2>
