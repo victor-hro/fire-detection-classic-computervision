@@ -1,7 +1,7 @@
 # Fire Detection - Computer Vision
 
 <h1 align="center">
-  <img alt="Girl Fire Meme" width=400 weigth=300 title="#Grad CAM" src="src/assets/girl.jpg" />
+  <img alt="Girl Fire Meme" width=400 weigth=300 title="original" src="src/assets/girl.jpg" />
 </h1>
 
 <h3 align="center"> 
@@ -28,7 +28,7 @@
 ### Mahalanobis Distance
 <h2 align="center">
 	<img alt="girl" width=300 weigth=200 title="#girl" src="src/assets/girl.jpg" />
-	<img alt="Blur" width=300 weigth=200 title="#blur CAM" src="src/assets/girl_blur.png" />
+	<img alt="bilateral" width=300 weigth=200 title="#bilateral filter" src="src/assets/girl_bilateral.png" />
 </h2>
 
 <h2 align="center">
