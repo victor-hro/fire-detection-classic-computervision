@@ -10,14 +10,13 @@
 
 ### :computer: Features
 
-- [x] Extração dos dados;
-- [x] Implementação da Visão Clássica;
-
+- [x] Classic Computer Vision;
+      [x] Bilateral Filter;
       [x] Mahalanobis Distance;
-      [x] Adaptative Threshold;
-      [x] Morfologia Matemática;
-      [x] SVM;
+      [x] Limiar Threshold;
+      [x] Mathematical Morphology;
 - [x] Deep Learning;
+      [x] U-Net;
 
 ### 🛠 Tools
 
