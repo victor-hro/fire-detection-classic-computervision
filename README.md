@@ -11,11 +11,13 @@
 ### :computer: Features
 
 - [x] Classic Computer Vision;
+
       [x] Bilateral Filter;
       [x] Mahalanobis Distance;
       [x] Limiar Threshold;
       [x] Mathematical Morphology;
 - [x] Deep Learning;
+
       [x] U-Net;
 
 ### 🛠 Tools
