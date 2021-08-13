@@ -1,5 +1,7 @@
 # Fire Detection - Computer Vision
 
+by: Victor Oliveira and Marcus Branch.
+
 <h1 align="center">
   <img alt="Girl Fire Meme"  title="original" src="src/assets/girl.jpg" />
 </h1>
