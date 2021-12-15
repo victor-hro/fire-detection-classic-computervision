@@ -1,4 +1,4 @@
-# Fire Detection - Computer Vision
+# Fire Segmentation - Computer Vision
 
 by: Victor Oliveira and Marcus Branch.
 
